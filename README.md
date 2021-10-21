@@ -4,7 +4,7 @@
 
 A website for a marketing agency.
 
-![Webpage screenshot](assets/images/_Users_christophermccormack_Desktop_wk1-challenge_code-refactor_index.html (1).png)
+![Webpage screenshot](_Users_christophermccormack_Desktop_wk1-challenge_code-refactor_index.html%20(1).png)
 
 ## Built With
 
